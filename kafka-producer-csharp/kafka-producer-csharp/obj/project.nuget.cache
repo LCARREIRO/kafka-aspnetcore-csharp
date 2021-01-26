@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pdmSE20/HYHjxcJxiZHiEq8f2fTYzy1b27/FTEoaJVvcztDhITubQzuVeK9Y2jXahGYurOxKFZhScJM4Xsv3Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucia\\Documents\\GitHub\\kafka\\kafka-producer-csharp\\kafka-producer-csharp\\kafka-producer-csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucia\\.nuget\\packages\\confluent.kafka\\1.5.3\\confluent.kafka.1.5.3.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\librdkafka.redist\\1.5.3\\librdkafka.redist.1.5.3.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
